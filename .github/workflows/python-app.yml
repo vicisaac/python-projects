@@ -38,4 +38,4 @@ jobs:
       run: |
         pip install pytest
         export pythonpath=simpleInt.py
-        pytest
+        pytest simpleInt.py
